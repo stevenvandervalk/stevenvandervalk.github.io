@@ -4,7 +4,7 @@ https://keybase.io/stevevandervalk
 
 I hereby claim:
 
-  * I am an admin of http://stevevandervalk.com
+  * I am an admin of http://www.stevevandervalk.com
   * I am stevevandervalk (https://keybase.io/stevevandervalk) on keybase.
   * I have a public key with fingerprint 8DC4 C2EF E2A0 8AA8 394F  E580 049B 5EAB 5562 2044
 
@@ -15,21 +15,21 @@ To claim this, I am signing this object:
         "key": {
             "fingerprint": "8dc4c2efe2a08aa8394fe580049b5eab55622044",
             "host": "keybase.io",
-            "key_id": "049b5eab55622044",
+            "key_id": "049B5EAB55622044",
             "uid": "b8816612294aec731188ed7ae72c2200",
             "username": "stevevandervalk"
         },
         "service": {
-            "hostname": "stevevandervalk.com",
+            "hostname": "www.stevevandervalk.com",
             "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1398209699,
+    "ctime": 1398210082,
     "expire_in": 157680000,
-    "prev": "412ef509d045f23a427a317c87ed565ee07d74431bdfade422efa955e9092bc7",
-    "seqno": 3,
+    "prev": "425fbf62c96eb1c0d12f3e24f2f7198a7fea0641aa8accdaee87a986d07c7e60",
+    "seqno": 4,
     "tag": "signature"
 }
 
@@ -37,27 +37,28 @@ with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
 
-owGbwMvMwMSovXXpjS8vpF8znj7IkMQQHPbncLVSUn5KpZJVtVJ2KphKy8xLTy0q
-KMrMK1GyUrJISTZJNkpNSzVKNLBITLQwtjRJSzW1MDAwsUwyTU1MMjU1MzIyMDFR
-0lHKyC8G6QAak5RYnKqXmQ8UA3LiM1OAoljUl4IlkiwsDM3MDI2MLE0SU5PNjQ0N
-LSxSU8wTU82NkoEqDUAKi1OL8hJzU4Gqi0tSy1LLEvNSUovKEnOylWp1lICSZZnJ
-qSCng1yAXaFecn4u0KSCovyS/OT8HKCCjJKSAiuQ/pLKApCG8tSkeKhR8UmZeSnA
-UABqKEstKs7Mz1OyMgSqTC7JBJltaGxpYWRgaWZpqaOUWlGQWZQanwlSYWpuBgwX
-AwOQNallQCNNDIEBZ2pgmWJgYppmZJxoYmSeaGxonmxhnppiamaammpgnmJuYmJs
-mJSSlpiSamIEVJ5oaWqaamlgaZSUbK4E8lxhXr6SlTHQmYnpIG9lpucllpQWpSrV
-cnUyybAwMDIxsLEygSKSgYtTABa9UnYCDOfTVcJm8VzpeJXS+lVoatq7B7ZxCU9u
-MhTt4/R7Iisl8fNbfW+TwQcV4zWs7Ov4pPrWPMw7xpF4KU2DyfpSwlexUAHrWYn1
-1w+87ry7b5ud9CmpDHWpt472BsVTHi8yFXF8vWTdvv3VL5SzC20L03TsN5qw+Rvq
-fFKUCH7hMqtb5Zl425w2+813vpycuVlAe/6N9VOeSGxQF1tyVbIv/mDqwzUuOh8V
-f01IfmFzQPybgJ1zRIH2Ob6+L6bF3WZr3YNearuVqryOe1F59mV/nFiRsFKpde28
-natY1A23P2v2ajrHOOX/+x7Gjp3Hcm91c29ZtaHALmEOX0bPnhqfX7NfBG64e91Q
-5qKM7M1bbLf/Nxj9UD7nxlstF/BbpLfmc5ENg+6vzoYPD5Ny9imdkJZiexe7ntnh
-VLh9zR2D7RErdu3Rcorb/bXvARc/o99MN/aWHW8UL9vL2H1zOHn+zIu5Zd+YpA58
-36pb2XH4uumiiQtePbXdvHqn/HOLv+4W1UuW+zR12ew0mXDkDid3d4TcZ+mwnX95
-v3kz1DJN1ohz9uzK2Mclqj9PI2O1SPfRVTHf+z/fm7P2k4Jc+oW504U2rFVPNsvU
-442TuzFDSk54YsqN/yfvTtv5w+/Mj9Rre5m+zOO9esZ+7qldb51WhE5gSBWsnDt5
-U2QL65e0FSFXco+cs7W7xnrHeO+H2uarmnLSwnqbr8psmN13GwA=
-=S1Mf
+owGbwMvMwMSovXXpjS8vpF8znj7InMQQHPZPqVopKT+lUsmqWik7FUylZealpxYV
+FGXmlShZKVmkJJskG6WmpRolGlgkJloYW5qkpZpaGBiYWCaZpiYmmZqaGRkZmJgo
+6Shl5BeDdACNSUosTtXLzAeKATnxmSlAUaB6J1NXRyck9aVgiSQLC0MzM0MjI0uT
+xNRkc2NDQwuL1BTzxFRzo2SgSgOQwuLUorzE3FSg6uKS1LLUssS8lNSissScbKVa
+HSWgZFlmcirI6SAXQBWWl5froSnWS87PBZpWUJRfkp+cnwNUlFFSUmAFMqOksgCs
+KTUpHmpcfFJmXgowJIAaylKLijPz85SsDIEqk0syQeYbGltaGBkaGFgY6SilVhRk
+FqXGZ4JUmJqbAcPGwABkTWoZ0EgTI9O0pDQzo2RLs9Qkw2SDFEOjNONUI5M0ozRz
+Q0uLRPO01EQDMxNDYNAmJienJKamWpgnWlqYpRiYJ5unmoG8X5xamJevZGUCdGZi
+OigMMtPzEktKi1KVajuZZFgYGJkY2FiZQHHJwMUpAIvh/Fz+v1KK+6ZOYtm+ZkeF
+9q6IEx1FCi0WlU7fMjOPdu2fLe1ycI2Du0fukezul78dXXaZf3f3FUnI4/qRE6/1
+pkw8qnmXV3NQv1/I00f8nCmsD77fW/umMOfvtsb+ac96DRu2qt142XZhiQ/3Wd0/
+Md+OnsvX9+NgLiycajy3rjOo76h/3JxvcXU1rS5Wef/Tzlaud52+Uaf9y54LhW0i
+QTsi6i9u6VWztNq43IrdZ8K/WXfuOExc90j9w5/WG12X85Vl/8kvffBNwnh6S8k3
+lXsmbwT9hJbE7j2cdvnpBYmn7wK2hwjt3PN07uenL1WXPjK4d2la5AobNU3l/dJ1
+Z6f7bxbZseksZ9+FjEAm17DbDntqpXLZJ7bpTNpy94HJatGAe9ldHrV7uC3C70ll
+9Kz4nt5zi/uYefHGs+wNTC0uuftrXjBcXqkyQy/F6Xz7WuOXUtO5Tfgf217KXhuo
+lne1NblhKldewxdzcxP2OYHeC7uyBbd9382oLGK83IEnRtn12KvjtfrHchtF3uu/
+nt8vsD7CRKRh+m/zrJBpyTpaNwXbi6UW+Zyamr5/waqKyEVsJVu+RC15dFen9uPK
+y0f/b/ymI7nYhvOFRlXP2g6FmJe7H78N0ZJVTt9+qdTxa/1LXv3Wdg8xrei3Qlb2
+i/ubXt5KWvXL819bT6j6rrVd7OcVbrqvc95/59WrydpnX1e0KDb2h/xjbq56qvYQ
+AA==
+=wAqb
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
