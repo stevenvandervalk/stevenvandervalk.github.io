@@ -1,2 +1,1 @@
-stevenvandervalk.github.io
-==========================
+stevevandervalk.com
