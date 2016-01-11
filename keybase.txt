@@ -1,65 +1,51 @@
+
 ==================================================================
 https://keybase.io/stevevandervalk
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://www.stevevandervalk.com
+  * I am an admin of https://stevevandervalk.com
   * I am stevevandervalk (https://keybase.io/stevevandervalk) on keybase.
-  * I have a public key with fingerprint 8DC4 C2EF E2A0 8AA8 394F  E580 049B 5EAB 5562 2044
+  * I have a public key ASCejOciwsqImDncISkG4keAarqT3hzwz53oWAAifdo0Xgo
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "fingerprint": "8dc4c2efe2a08aa8394fe580049b5eab55622044",
+            "eldest_kid": "010165b0f573ade0437f416eac5bbbfc8787fa6f7a1d5a30f00ea30838535881d0aa0a",
             "host": "keybase.io",
-            "key_id": "049B5EAB55622044",
+            "kid": "01209e8ce722c2ca889839dc212906e247806aba93de1cf0cf9de85800227dda345e0a",
             "uid": "b8816612294aec731188ed7ae72c2200",
             "username": "stevevandervalk"
         },
         "service": {
-            "hostname": "www.stevevandervalk.com",
-            "protocol": "http:"
+            "hostname": "stevevandervalk.com",
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1398210082,
-    "expire_in": 157680000,
-    "prev": "425fbf62c96eb1c0d12f3e24f2f7198a7fea0641aa8accdaee87a986d07c7e60",
-    "seqno": 4,
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.7"
+    },
+    "ctime": 1452505785,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1452505724,
+        "hash": "9d6699d6895991cd2b7cc678954c8fca0a55150c97316ecfc6a8db2e95e9f10593177562e74b0988bf3f45b27ba3be001eb500b4fb27bc20caddd9ce214050e5",
+        "seqno": 347119
+    },
+    "prev": "108fdafa79b5328080c6ae5557352bd76811439f8c6147fa9b1ed1300ebc0516",
+    "seqno": 11,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
------BEGIN PGP MESSAGE-----
-
-owGbwMvMwMSovXXpjS8vpF8znj7InMQQHPZPqVopKT+lUsmqWik7FUylZealpxYV
-FGXmlShZKVmkJJskG6WmpRolGlgkJloYW5qkpZpaGBiYWCaZpiYmmZqaGRkZmJgo
-6Shl5BeDdACNSUosTtXLzAeKATnxmSlAUaB6J1NXRyck9aVgiSQLC0MzM0MjI0uT
-xNRkc2NDQwuL1BTzxFRzo2SgSgOQwuLUorzE3FSg6uKS1LLUssS8lNSissScbKVa
-HSWgZFlmcirI6SAXQBWWl5froSnWS87PBZpWUJRfkp+cnwNUlFFSUmAFMqOksgCs
-KTUpHmpcfFJmXgowJIAaylKLijPz85SsDIEqk0syQeYbGltaGBkaGFgY6SilVhRk
-FqXGZ4JUmJqbAcPGwABkTWoZ0EgTI9O0pDQzo2RLs9Qkw2SDFEOjNONUI5M0ozRz
-Q0uLRPO01EQDMxNDYNAmJienJKamWpgnWlqYpRiYJ5unmoG8X5xamJevZGUCdGZi
-OigMMtPzEktKi1KVajuZZFgYGJkY2FiZQHHJwMUpAIvh/Fz+v1KK+6ZOYtm+ZkeF
-9q6IEx1FCi0WlU7fMjOPdu2fLe1ycI2Du0fukezul78dXXaZf3f3FUnI4/qRE6/1
-pkw8qnmXV3NQv1/I00f8nCmsD77fW/umMOfvtsb+ac96DRu2qt142XZhiQ/3Wd0/
-Md+OnsvX9+NgLiycajy3rjOo76h/3JxvcXU1rS5Wef/Tzlaud52+Uaf9y54LhW0i
-QTsi6i9u6VWztNq43IrdZ8K/WXfuOExc90j9w5/WG12X85Vl/8kvffBNwnh6S8k3
-lXsmbwT9hJbE7j2cdvnpBYmn7wK2hwjt3PN07uenL1WXPjK4d2la5AobNU3l/dJ1
-Z6f7bxbZseksZ9+FjEAm17DbDntqpXLZJ7bpTNpy94HJatGAe9ldHrV7uC3C70ll
-9Kz4nt5zi/uYefHGs+wNTC0uuftrXjBcXqkyQy/F6Xz7WuOXUtO5Tfgf217KXhuo
-lne1NblhKldewxdzcxP2OYHeC7uyBbd9382oLGK83IEnRtn12KvjtfrHchtF3uu/
-nt8vsD7CRKRh+m/zrJBpyTpaNwXbi6UW+Zyamr5/waqKyEVsJVu+RC15dFen9uPK
-y0f/b/ymI7nYhvOFRlXP2g6FmJe7H78N0ZJVTt9+qdTxa/1LXv3Wdg8xrei3Qlb2
-i/ubXt5KWvXL819bT6j6rrVd7OcVbrqvc95/59WrydpnX1e0KDb2h/xjbq56qvYQ
-AA==
-=wAqb
------END PGP MESSAGE-----
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnoznIsLKiJg53CEpBuJHgGq6k94c8M+d6FgAIn3aNF4Kp3BheWxvYWTFAwJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNjViMGY1NzNhZGUwNDM3ZjQxNmVhYzViYmJmYzg3ODdmYTZmN2ExZDVhMzBmMDBlYTMwODM4NTM1ODgxZDBhYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWU4Y2U3MjJjMmNhODg5ODM5ZGMyMTI5MDZlMjQ3ODA2YWJhOTNkZTFjZjBjZjlkZTg1ODAwMjI3ZGRhMzQ1ZTBhIiwidWlkIjoiYjg4MTY2MTIyOTRhZWM3MzExODhlZDdhZTcyYzIyMDAiLCJ1c2VybmFtZSI6InN0ZXZldmFuZGVydmFsayJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic3RldmV2YW5kZXJ2YWxrLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjcifSwiY3RpbWUiOjE0NTI1MDU3ODUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1MjUwNTcyNCwiaGFzaCI6IjlkNjY5OWQ2ODk1OTkxY2QyYjdjYzY3ODk1NGM4ZmNhMGE1NTE1MGM5NzMxNmVjZmM2YThkYjJlOTVlOWYxMDU5MzE3NzU2MmU3NGIwOTg4YmYzZjQ1YjI3YmEzYmUwMDFlYjUwMGI0ZmIyN2JjMjBjYWRkZDljZTIxNDA1MGU1Iiwic2Vxbm8iOjM0NzExOX0sInByZXYiOiIxMDhmZGFmYTc5YjUzMjgwODBjNmFlNTU1NzM1MmJkNzY4MTE0MzlmOGM2MTQ3ZmE5YjFlZDEzMDBlYmMwNTE2Iiwic2Vxbm8iOjExLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHa5unC2t8cyaAyMaxmtt2yVDy6s2HUHObhDyxO0HGkAlvT5rVXgKnpx+NhDjAdz0WZB5WHrA6EFzd/7Pkls/QKoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
