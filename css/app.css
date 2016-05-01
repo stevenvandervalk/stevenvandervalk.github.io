@@ -61,7 +61,6 @@
 .twinkling{
   /*background:transparent url(http://sylvaingarnot.fr/media/twinkling.png) repeat*/
   background:transparent url('../img/twinkling.png') repeat
-  url('../img/s1.png')
   top center;
   z-index:1;
 
